@@ -18,6 +18,7 @@
   "dependencies": {
     "@tanstack/vue-query": "^5.37.1",
     "@tanstack/vue-query-devtools": "^5.37.1",
+    "@vueuse/core": "^10.9.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-vue-next": "^0.378.0",
@@ -25,6 +26,7 @@
     "radix-vue": "^1.8.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
+    "vaul-vue": "^0.1.2",
     "vue": "^3.4.21",
     "vue-router": "4"
   },
